@@ -14,8 +14,7 @@ Global warming and climate change are the phenomenon of rising average temperatu
 
 <h3>Project PowerPoint</h3>
   <div class="thumbnail">
-    <p style="text-align:center">
-      <iframe src="https://onedrive.live.com/embed?cid=0B0EC8B9BF693A02&resid=B0EC8B9BF693A02%212035&authkey=AHX4Ray-ddoiNqA&em=2&wdAr=1.7777777777777777&wdEaa=1" width="100%" height="565px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
-    </p>
+      <iframe src="https://onedrive.live.com/embed?cid=0B0EC8B9BF693A02&resid=B0EC8B9BF693A02%212035&authkey=AHX4Ray-ddoiNqA&em=2&wdAr=1.7777777777777777&wdEaa=1" width="100%" height="565px" frameborder="0" />
+    
    </div>
 
