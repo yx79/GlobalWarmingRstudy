@@ -5,7 +5,7 @@ Exploring Climate Change in R
 The project is interested in studying this issue as a data scientist, and explore the profound impacts from climate change on our world.
 
 
-http://spring2016.yuanjiexie.com/rproject.html
+http://www.yuanjiexie.com/rproject.html
 
 Team member: RINI PRINCY J P, Yvonne Watkins, Samuel Ou, Yuanjie Xie
 
